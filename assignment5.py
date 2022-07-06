@@ -19,7 +19,7 @@ for number in range(0,20):
         prod=prod*number
 print(prod)
 
-#calculate the factorial of six=6! and 9!
+#calculate the factorial of 6! and 9!
 #5!
 fact = 1
 for number in range(0,6):

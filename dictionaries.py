@@ -4,7 +4,7 @@
 #name : Eugene Martins Maloba
 
 #date : 30/5/2022
-#############################################################################################################################################
+###################################################################################################################################
 #A dictionary is a collection  of a key value pair:key;pair
 #syntax:dictionary={"key":"value"}
 list_names=['john','mary']#use type method to find data type

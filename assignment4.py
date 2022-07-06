@@ -4,7 +4,7 @@
 
 #date : 30/5/2022
 ########################################################################################
-#Lists of vehicles
+#List of vehicles
 vehicles=['bmw','audi','toyota','mercedes','jeep']
  #using if statement
 for vehicle in vehicles:
