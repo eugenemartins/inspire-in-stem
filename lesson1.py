@@ -9,7 +9,7 @@
 #######################################################################################################################
 
 #print("Hello world")
-print("I am Eugene Martins Maloba")
+print("I am Eugene Martins")
 print("I am from Busia")
 print("I was born in 2004 July")
 print("I am 17 years old")
